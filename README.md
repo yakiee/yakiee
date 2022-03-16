@@ -1,11 +1,11 @@
-# yaki
+# yaki is here!!!🦄
 
 <table>
   <body>
-    <tr style="background-color: white">
+    <tr>
       <td width="50%" align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yakiee&show_icons=true&theme=radical" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=yakiee&show_icons=true&theme=radical&hide_border=true" />
         </a>
       </td>
       <td>
