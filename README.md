@@ -1,6 +1,6 @@
-# yaki is here!!!🦄
-<a href="https://yakiee.github.io"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yakiee/count.svg" /></a>
-<table>
+<h1 align="center"> yaki is here!!!🦄 </h1>
+<a href="https://yakiee.github.io"><p align="center"> Visitor count</br> <img src="https://profile-counter.glitch.me/yakiee/count.svg" /></p></a>
+<table align="center">
   <body>
     <tr>
       <td width="50%" align="center">
