@@ -1,5 +1,5 @@
 # yaki is here!!!🦄
-
+<a href="https://yakiee.github.io"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/yakiee/count.svg" /></a>
 <table>
   <body>
     <tr>
