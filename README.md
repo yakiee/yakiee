@@ -3,7 +3,7 @@
 <table align="center">
   <body>
     <tr>
-      <td width="50%" align="center">
+      <td align="center">
         <a href="https://github.com/yakiee">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=yakiee&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true" />
         </a>
